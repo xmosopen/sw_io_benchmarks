@@ -1,0 +1,163 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\ApplicationBenchmark\harness\dsPIC_MPLAB\main.o
+Folder=Intermediary
+DeviceName=dsPIC33FJ256MC710A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|..\..\Source\portable\MPLAB\PIC24_dsPIC||$(INCDIR)|.;ParTest;..\..\Source\portable\MPLAB\PIC24_dsPIC;..\..\Source\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|ParTest\ParTest.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\croutine.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\list.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\queue.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\tasks.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\timers.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MemMang\heap_1.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\port.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\portasm_dsPIC.S||<obj>||<lib>||<lkr>|p33FJ256MC710A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall -DMPLAB_DSPIC_PORT
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_ICD3=1
+[File001]
+Location=C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\ApplicationBenchmark\harness\dsPIC_MPLAB\ParTest.o
+Folder=Intermediary
+DeviceName=dsPIC33FJ256MC710A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|..\..\Source\portable\MPLAB\PIC24_dsPIC||$(INCDIR)|.;ParTest;..\..\Source\portable\MPLAB\PIC24_dsPIC;..\..\Source\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|ParTest\ParTest.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\croutine.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\list.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\queue.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\tasks.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\timers.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MemMang\heap_1.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\port.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\portasm_dsPIC.S||<obj>||<lib>||<lkr>|p33FJ256MC710A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall -DMPLAB_DSPIC_PORT
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_ICD3=1
+[File002]
+Location=C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\ApplicationBenchmark\harness\dsPIC_MPLAB\croutine.o
+Folder=Intermediary
+DeviceName=dsPIC33FJ256MC710A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|..\..\Source\portable\MPLAB\PIC24_dsPIC||$(INCDIR)|.;ParTest;..\..\Source\portable\MPLAB\PIC24_dsPIC;..\..\Source\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|ParTest\ParTest.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\croutine.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\list.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\queue.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\tasks.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\timers.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MemMang\heap_1.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\port.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\portasm_dsPIC.S||<obj>||<lib>||<lkr>|p33FJ256MC710A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall -DMPLAB_DSPIC_PORT
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_ICD3=1
+[File003]
+Location=C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\ApplicationBenchmark\harness\dsPIC_MPLAB\list.o
+Folder=Intermediary
+DeviceName=dsPIC33FJ256MC710A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|..\..\Source\portable\MPLAB\PIC24_dsPIC||$(INCDIR)|.;ParTest;..\..\Source\portable\MPLAB\PIC24_dsPIC;..\..\Source\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|ParTest\ParTest.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\croutine.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\list.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\queue.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\tasks.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\timers.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MemMang\heap_1.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\port.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\portasm_dsPIC.S||<obj>||<lib>||<lkr>|p33FJ256MC710A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall -DMPLAB_DSPIC_PORT
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_ICD3=1
+[File004]
+Location=C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\ApplicationBenchmark\harness\dsPIC_MPLAB\queue.o
+Folder=Intermediary
+DeviceName=dsPIC33FJ256MC710A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|..\..\Source\portable\MPLAB\PIC24_dsPIC||$(INCDIR)|.;ParTest;..\..\Source\portable\MPLAB\PIC24_dsPIC;..\..\Source\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|ParTest\ParTest.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\croutine.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\list.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\queue.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\tasks.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\timers.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MemMang\heap_1.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\port.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\portasm_dsPIC.S||<obj>||<lib>||<lkr>|p33FJ256MC710A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall -DMPLAB_DSPIC_PORT
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_ICD3=1
+[File005]
+Location=C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\ApplicationBenchmark\harness\dsPIC_MPLAB\tasks.o
+Folder=Intermediary
+DeviceName=dsPIC33FJ256MC710A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|..\..\Source\portable\MPLAB\PIC24_dsPIC||$(INCDIR)|.;ParTest;..\..\Source\portable\MPLAB\PIC24_dsPIC;..\..\Source\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|ParTest\ParTest.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\croutine.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\list.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\queue.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\tasks.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\timers.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MemMang\heap_1.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\port.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\portasm_dsPIC.S||<obj>||<lib>||<lkr>|p33FJ256MC710A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall -DMPLAB_DSPIC_PORT
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_ICD3=1
+[File006]
+Location=C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\ApplicationBenchmark\harness\dsPIC_MPLAB\timers.o
+Folder=Intermediary
+DeviceName=dsPIC33FJ256MC710A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|..\..\Source\portable\MPLAB\PIC24_dsPIC||$(INCDIR)|.;ParTest;..\..\Source\portable\MPLAB\PIC24_dsPIC;..\..\Source\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|ParTest\ParTest.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\croutine.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\list.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\queue.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\tasks.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\timers.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MemMang\heap_1.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\port.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\portasm_dsPIC.S||<obj>||<lib>||<lkr>|p33FJ256MC710A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall -DMPLAB_DSPIC_PORT
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_ICD3=1
+[File007]
+Location=C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\ApplicationBenchmark\harness\dsPIC_MPLAB\heap_1.o
+Folder=Intermediary
+DeviceName=dsPIC33FJ256MC710A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|..\..\Source\portable\MPLAB\PIC24_dsPIC||$(INCDIR)|.;ParTest;..\..\Source\portable\MPLAB\PIC24_dsPIC;..\..\Source\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|ParTest\ParTest.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\croutine.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\list.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\queue.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\tasks.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\timers.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MemMang\heap_1.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\port.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\portasm_dsPIC.S||<obj>||<lib>||<lkr>|p33FJ256MC710A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall -DMPLAB_DSPIC_PORT
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_ICD3=1
+[File008]
+Location=C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\ApplicationBenchmark\harness\dsPIC_MPLAB\port.o
+Folder=Intermediary
+DeviceName=dsPIC33FJ256MC710A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|..\..\Source\portable\MPLAB\PIC24_dsPIC||$(INCDIR)|.;ParTest;..\..\Source\portable\MPLAB\PIC24_dsPIC;..\..\Source\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|ParTest\ParTest.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\croutine.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\list.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\queue.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\tasks.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\timers.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MemMang\heap_1.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\port.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\portasm_dsPIC.S||<obj>||<lib>||<lkr>|p33FJ256MC710A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall -DMPLAB_DSPIC_PORT
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_ICD3=1
+[File009]
+Location=C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\ApplicationBenchmark\harness\dsPIC_MPLAB\portasm_dsPIC.o
+Folder=Intermediary
+DeviceName=dsPIC33FJ256MC710A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={DE18EB1A-B46B-486B-B96F-A811A635DFAC}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-as.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|..\..\Source\portable\MPLAB\PIC24_dsPIC||$(INCDIR)|.;ParTest;..\..\Source\portable\MPLAB\PIC24_dsPIC;..\..\Source\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|ParTest\ParTest.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\croutine.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\list.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\queue.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\tasks.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\timers.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MemMang\heap_1.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\port.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\portasm_dsPIC.S||<obj>||<lib>||<lkr>|p33FJ256MC710A.gld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=--defsym=__DEBUG=1 --defsym=__MPLAB_DEBUGGER_ICD3=1
+[File010]
+Location=C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\ApplicationBenchmark\harness\dsPIC_MPLAB\RTOSdsPIC33F.cof
+Folder=Output
+DeviceName=dsPIC33FJ256MC710A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|..\..\Source\portable\MPLAB\PIC24_dsPIC||$(INCDIR)|.;ParTest;..\..\Source\portable\MPLAB\PIC24_dsPIC;..\..\Source\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|ParTest\ParTest.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\croutine.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\list.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\queue.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\tasks.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\timers.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MemMang\heap_1.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\port.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\portasm_dsPIC.S||<obj>||<lib>||<lkr>|p33FJ256MC710A.gld||
+SuiteArgsString=
+ToolArgsString=--heap=0 -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1 --defsym=__MPLAB_DEBUGGER_ICD3=1 --defsym=__ICD2RAM=1
+[File011]
+Location=C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\ApplicationBenchmark\harness\dsPIC_MPLAB\RTOSdsPIC33F.hex
+Folder=Output
+DeviceName=dsPIC33FJ256MC710A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|..\..\Source\portable\MPLAB\PIC24_dsPIC||$(INCDIR)|.;ParTest;..\..\Source\portable\MPLAB\PIC24_dsPIC;..\..\Source\include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|ParTest\ParTest.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\croutine.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\list.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\queue.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\tasks.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\timers.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MemMang\heap_1.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\port.c|C:\Users\Goncalo\Desktop\XMOS Benchmark\IDE\MpLab\dsPIC33FJ256\FreeRTOS_7_80MHz_dsPIC33FJ256MC710A\Source\portable\MPLAB\PIC24_dsPIC\portasm_dsPIC.S||<obj>||<lib>||<lkr>|p33FJ256MC710A.gld||
+SuiteArgsString=
+ToolArgsString=--heap=0 -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1 --defsym=__MPLAB_DEBUGGER_ICD3=1 --defsym=__ICD2RAM=1
+[TOOL_LOC_STAMPS]
+tool_loc{DE18EB1A-B46B-486B-B96F-A811A635DFAC}=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-as.exe
+tool_loc{069BD372-6CA0-40D4-BF2F-5DC806D05083}=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+tool_loc{433C3D55-811D-409D-A6BF-159CF9355B42}=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-ld.exe

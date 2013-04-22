@@ -1,0 +1,59 @@
+*** Creating Trace Output File '.\RAM\LPC1700CMSIS.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\ram\startup_lpc17xx.o"'
+### List of Objects: adding '".\ram\core_cm3.o"'
+### List of Objects: adding '".\ram\system_lpc17xx.o"'
+### List of Objects: adding '".\ram\debug_frmwrk.o"'
+### List of Objects: adding '".\ram\lpc17xx_adc.o"'
+### List of Objects: adding '".\ram\lpc17xx_can.o"'
+### List of Objects: adding '".\ram\lpc17xx_clkpwr.o"'
+### List of Objects: adding '".\ram\lpc17xx_dac.o"'
+### List of Objects: adding '".\ram\lpc17xx_emac.o"'
+### List of Objects: adding '".\ram\lpc17xx_exti.o"'
+### List of Objects: adding '".\ram\lpc17xx_gpdma.o"'
+### List of Objects: adding '".\ram\lpc17xx_gpio.o"'
+### List of Objects: adding '".\ram\lpc17xx_i2c.o"'
+### List of Objects: adding '".\ram\lpc17xx_i2s.o"'
+### List of Objects: adding '".\ram\lpc17xx_libcfg_default.o"'
+### List of Objects: adding '".\ram\lpc17xx_mcpwm.o"'
+### List of Objects: adding '".\ram\lpc17xx_nvic.o"'
+### List of Objects: adding '".\ram\lpc17xx_pinsel.o"'
+### List of Objects: adding '".\ram\lpc17xx_pwm.o"'
+### List of Objects: adding '".\ram\lpc17xx_qei.o"'
+### List of Objects: adding '".\ram\lpc17xx_rit.o"'
+### List of Objects: adding '".\ram\lpc17xx_rtc.o"'
+### List of Objects: adding '".\ram\lpc17xx_spi.o"'
+### List of Objects: adding '".\ram\lpc17xx_ssp.o"'
+### List of Objects: adding '".\ram\lpc17xx_systick.o"'
+### List of Objects: adding '".\ram\lpc17xx_timer.o"'
+### List of Objects: adding '".\ram\lpc17xx_uart.o"'
+### List of Objects: adding '".\ram\lpc17xx_wdt.o"'
+### List of Objects: adding '".\ram\template.o"'
+### List of Objects: adding '".\ram\retarget.o"'
+### List of Objects: adding '".\ram\usbcontrol.o"'
+### List of Objects: adding '".\ram\usbhw_lpc.o"'
+### List of Objects: adding '".\ram\usbinit.o"'
+### List of Objects: adding '".\ram\usbstdreq.o"'
+### List of Objects: adding '".\ram\port.o"'
+### List of Objects: adding '".\ram\croutine.o"'
+### List of Objects: adding '".\ram\list.o"'
+### List of Objects: adding '".\ram\queue.o"'
+### List of Objects: adding '".\ram\tasks.o"'
+### List of Objects: adding '".\ram\timers.o"'
+### List of Objects: adding '".\ram\heap_1.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\ram\startup_lpc17xx.o" ".\ram\core_cm3.o" ".\ram\system_lpc17xx.o" ".\ram\debug_frmwrk.o" ".\ram\lpc17xx_adc.o" ".\ram\lpc17xx_can.o" ".\ram\lpc17xx_clkpwr.o" ".\ram\lpc17xx_dac.o" ".\ram\lpc17xx_emac.o" ".\ram\lpc17xx_exti.o" ".\ram\lpc17xx_gpdma.o" ".\ram\lpc17xx_gpio.o" ".\ram\lpc17xx_i2c.o" ".\ram\lpc17xx_i2s.o" ".\ram\lpc17xx_libcfg_default.o" ".\ram\lpc17xx_mcpwm.o" ".\ram\lpc17xx_nvic.o" ".\ram\lpc17xx_pinsel.o" ".\ram\lpc17xx_pwm.o" ".\ram\lpc17xx_qei.o" ".\ram\lpc17xx_rit.o" ".\ram\lpc17xx_rtc.o" ".\ram\lpc17xx_spi.o" ".\ram\lpc17xx_ssp.o" ".\ram\lpc17xx_systick.o" ".\ram\lpc17xx_timer.o" ".\ram\lpc17xx_uart.o" ".\ram\lpc17xx_wdt.o" ".\ram\template.o" ".\ram\retarget.o" ".\ram\usbcontrol.o" ".\ram\usbhw_lpc.o" ".\ram\usbinit.o" ".\ram\usbstdreq.o" ".\ram\port.o" ".\ram\croutine.o" ".\ram\list.o" ".\ram\queue.o" ".\ram\tasks.o" ".\ram\timers.o" ".\ram\heap_1.o" --library_type=microlib --strict --scatter ".\RAM\LPC1700CMSIS.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\RAM\LPC1700CMSIS.map" -o ".\RAM\LPC1700CMSIS.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\RAM\LPC1700CMSIS.axf'
+### ADS-LD Command File: '.\RAM\LPC1700CMSIS.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\RAM\LPC1700CMSIS.lnp', Handle=0x00000868
+### Writing '.lnp' file
+### ADS-LD Command file '.\RAM\LPC1700CMSIS.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
